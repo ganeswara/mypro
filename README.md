@@ -1,2 +1,2 @@
 # mypro
-First Repository
+python program
